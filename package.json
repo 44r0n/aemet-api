@@ -1,0 +1,30 @@
+{
+  "name": "aemet-api",
+  "version": "1.0.0",
+  "description": "AEMET API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/44r0n/aemet-api.git"
+  },
+  "keywords": [
+    "AEMET",
+    "wrapper",
+    "meteo",
+    "España"
+  ],
+  "author": "Aarón Sánchez Navarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/44r0n/aemet-api/issues"
+  },
+  "homepage": "https://github.com/44r0n/aemet-api#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "vitest": "^0.25.8"
+  }
+}
